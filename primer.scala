@@ -1,3 +1,4 @@
 object OO{
 	
+	println("kkkk")
 }
